@@ -1,4 +1,5 @@
-package com.bookstore;
+package org.example;
+
 public class Book {
     private final int id;
     private final String title;
